@@ -1,5 +1,4 @@
 ## Hi there 👋
-# 👋 Hi there!
 
 **Learning Python (Pandas, NumPy) / SQL**  
 **Systems of Information 8/8**
