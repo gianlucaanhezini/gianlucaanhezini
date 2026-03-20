@@ -1,16 +1,18 @@
 ## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**gianlucaanhezini/gianlucaanhezini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Learning Python (Pandas, NumPy) / SQL**  
+**Systems of Information 8/8**
 
-Here are some ideas to get you started:
+🖥 In search of programming jobs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=gianlucaanhezini&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucaanhezini&layout=compact&theme=radical&hide_border=true)
